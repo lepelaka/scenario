@@ -64,7 +64,6 @@ import org.json.JSONObject;
  * @version 1.0
  * 
  */
-
 public class KakaoApi {
 	private static final String MAIN_API = "https://dapi.kakao.com/v2/local/search/keyword.json";	// 키워드를 통해 주소받기 URL API 요청 메인 주소
 	private static final String SERVICE_KEY = "f7a33033c8715643e3d98a97b5500cab";					// API 사용 서비스 키

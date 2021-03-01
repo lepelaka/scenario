@@ -5,7 +5,6 @@ package scenario.kakao;
  */
 
 public class CommonUtils {
-
 	/**
 	 * 글자 하나당 2byte로 계산할지 1byte로 계산할지를 알려주는 메서드, 파라미터가 한글일 경우 2byte를 그렇지 않을 경우는
 	 * 1byte로 반환한다.
