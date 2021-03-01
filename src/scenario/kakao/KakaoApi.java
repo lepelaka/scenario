@@ -77,7 +77,7 @@ public class KakaoApi {
 	
 	public static void main(String[] args) {
 		// 모든 작성은 main method안에 기술 하되 1초간격으로 3회 동작하도록 제작, 예외 처리는 메서드 내부에서 기술한다.
-		
+		// 화면 출력시 사용될 내용은 동봉된 CommonUtils 클래스 내부의 format method를 이용해서 규격화 한다.
 	}
 
 	/**
